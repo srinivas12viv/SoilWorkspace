@@ -1,0 +1,104 @@
+WEBVTT
+
+1
+00:00:00.079 --> 00:00:02.841
+SoilWorkspace provides an integrated workflow—
+
+2
+00:00:03.170 --> 00:00:07.525
+preparing reliable material models from
+experimental data for field-scale simulation.
+
+3
+00:00:07.855 --> 00:00:10.242
+It has three main hubs: the Experimental Hub,
+
+4
+00:00:10.449 --> 00:00:12.329
+the Calibration Hub, and the Modeling Hub—
+
+5
+00:00:12.794 --> 00:00:14.281
+each with dedicated workspaces.
+
+6
+00:00:14.640 --> 00:00:18.461
+The Experimental Hub brings soil characterization into one place.
+
+7
+00:00:18.795 --> 00:00:24.738
+Material Classification combines particle-size distributions and index
+properties to determine soil classification.
+
+8
+00:00:25.147 --> 00:00:28.288
+Single Test Analysis interprets individual experiments.
+
+9
+00:00:28.660 --> 00:00:33.175
+For example, it identifies compression and swelling indices from the
+oedometer test shown here.
+
+10
+00:00:33.645 --> 00:00:36.300
+Batch Test Analysis reveals material-level relationships,
+
+11
+00:00:36.602 --> 00:00:39.176
+including critical state and undrained instability.
+
+12
+00:00:39.590 --> 00:00:43.712
+The Calibration Hub connects experimental
+insights with advanced constitutive models.
+
+13
+00:00:44.160 --> 00:00:49.115
+Automatic calibration fits selected parameters to
+measured responses within defined bounds.
+
+14
+00:00:49.653 --> 00:00:53.816
+Fit Assessment quantifies the agreement and
+highlights the remaining differences.
+
+15
+00:00:54.338 --> 00:00:58.834
+The Modeling Hub explores predicted behavior across a variety of stress
+paths through triaxial,
+
+16
+00:00:59.053 --> 00:01:01.695
+biaxial, simple-shear, and hollow-cylinder tests.
+
+17
+00:01:02.146 --> 00:01:07.108
+The undrained biaxial response shown here
+illustrates this numerical testing capability.
+
+18
+00:01:07.510 --> 00:01:13.272
+Its platform-specific user-defined model generator bridges material
+modelling and field-scale analysis.
+
+19
+00:01:13.594 --> 00:01:15.193
+PLAXIS is the example shown here.
+
+20
+00:01:15.525 --> 00:01:20.352
+SoilWorkspace prepares the model; external
+platforms run the field-scale analysis.
+
+21
+00:01:20.706 --> 00:01:26.537
+SoilWorkspace: one place to turn raw data into a
+robust material model for engineering analysis.
+
+22
+00:01:26.821 --> 00:01:28.314
+Currently under active development.
+
+23
+00:01:28.661 --> 00:01:29.776
+Keep an eye out for the release!
